@@ -42,4 +42,37 @@ page 50102 "Book List"
             }
         }
     }
+
+    actions
+    {
+        area(Processing)
+        {
+            action("Export Books")
+            {
+                Caption = 'Export Books';
+                ApplicationArea = All;
+                Image = XMLFile;
+                Promoted = true;
+                PromotedCategory = Process;
+                PromotedIsBig = true;
+                //Alternative 1
+               // RunObject = xmlport ExportBooks;
+
+               //Alternative 2, mit OnAction Trigger  
+               trigger OnAction()
+                   var 
+                    Book: Record Book;
+                    ExpXml: XmlPort ExportBooks;
+                begin
+                    //
+                    CurrPage.SetSelectionFilter(Book);
+                    ExpXml.SetTableView(Book);
+                    ExpXml.Run();
+                end;
+                
+            }
+
+        }
+
+    }
 }
