@@ -1,6 +1,6 @@
 page 50103 "Book Detail Fact Box"
 {
-    PageType = Card;
+    PageType = CardPart;
     SourceTable = Book;
 
     layout
