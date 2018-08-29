@@ -4,6 +4,10 @@ codeunit 50101 "CustomerSubscriber"
 
     local procedure CustomerOnAfterInsert(var Rec: Record Customer; RunTrigger: Boolean)
     begin
-        Message('Kunde eingefügt');
+        Message(myTextMessageAlsLabel);
     end;
+
+    var
+        //Label dient zur Übersetzung im Translation File
+        myTextMessageAlsLabel: Label 'Kunde eingefügt', Comment='Info für Übersetzer', MaxLength=20, Locked=true ;
 }
