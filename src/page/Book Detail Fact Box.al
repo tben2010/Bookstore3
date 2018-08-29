@@ -10,6 +10,11 @@ page 50103 "Book Detail Fact Box"
                 field("No."; "No")
                 {
                     ApplicationArea = ALL;
+                    trigger OnDrillDown()
+                    begin
+                        //Funktion ist noch anzulegen
+                        //ShowDetails();
+                    end;
                 }
                 field(Title; Title)
                 {
@@ -19,6 +24,7 @@ page 50103 "Book Detail Fact Box"
                 {
                     ApplicationArea = ALL;
                 }
+                //FlowField noch anzeigen
         }
     }
 }
