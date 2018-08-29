@@ -40,4 +40,18 @@ page 50101 "Book Card"
             }
         }
     }
+
+    actions
+    {
+        area(Reporting)
+        {
+            action("Report Book List")
+            {
+                Caption = 'Book List';
+                ApplicationArea = All;
+                Image = Report;
+                RunObject = report BookStoreList;
+            }
+        }
+    }
 }

@@ -48,6 +48,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book Card - Control Details - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2783743311 - Action 2955634799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Book Card - Action Report Book List - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3565700325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Books</source>
           <note from="Developer" annotates="general" priority="2"></note>
