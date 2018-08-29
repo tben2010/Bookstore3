@@ -8,6 +8,6 @@ codeunit 50101 "CustomerSubscriber"
     end;
 
     var
-        //Label dient zur Übersetzung im Translation File
+        //Label dient zur Übersetzung im Translation File, Comment und MaxLength und Locked sind Optional
         myTextMessageAlsLabel: Label 'Kunde eingefügt', Comment='Info für Übersetzer', MaxLength=20, Locked=true ;
 }
