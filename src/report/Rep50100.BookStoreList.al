@@ -9,7 +9,7 @@ report 50100 "BookStoreList"
 
     dataset
     {
-        dataitem(Integer; Integer)
+        dataitem(SingleRowData; Integer)
         {
             DataItemTableView = sorting () where (Number = const (1));
             column(COMPANYNAME; CompanyProperty.DisplayName()) { }
