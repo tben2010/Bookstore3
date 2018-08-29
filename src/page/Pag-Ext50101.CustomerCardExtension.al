@@ -10,5 +10,17 @@ pageextension 50101 "CustomerCardExtension" extends "Customer Card" //MyTargetPa
                 Visible = true;
             }
         }
+
+        addbefore(Control149)
+        {
+            part(BookDetailsFactBox; "Book Detail Fact Box")
+            {
+                Caption = 'Book Details';
+                ApplicationArea = All;
+                SubPageLink =  No = field("Bookno.");
+            }
+        }
+
+
     }
 }

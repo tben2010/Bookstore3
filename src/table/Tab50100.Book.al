@@ -30,6 +30,16 @@ table 50100 "Book"
         {
             Caption = 'Page Count';
         }
+
+        field(10;"No. of Customers";Integer)
+        {
+            Caption ='No. of Customers';
+            Editable = false;
+            FieldClass = FlowField;
+            //FlowField
+            CalcFormula = count(Customer where("Bookno." = field(No)));
+
+        }
     }
     
     keys
