@@ -43,6 +43,16 @@
           <note from="Developer" annotates="general" priority="2">Info für Übersetzer</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CustomerSubscriber - NamedType myTextMessageAlsLabel</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2808437895 - Method 3565230117 - NamedType 2750766566" maxwidth="128" size-unit="char" translate="no" xml:space="preserve">
+          <source>Mein Kunden Check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NotificationCustomerCard - Procedure MyNotifications.OnInitializingNotificationWithDefaultState - NamedType NotificationName</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2808437895 - Method 3565230117 - NamedType 1314462029" size-unit="char" translate="no" xml:space="preserve">
+          <source>Kunde wird geprüft</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit NotificationCustomerCard - Procedure MyNotifications.OnInitializingNotificationWithDefaultState - NamedType DescriptionText</note>
+        </trans-unit>
         <trans-unit id="Page 377110590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Company Info Wizard</source>
           <note from="Developer" annotates="general" priority="2"></note>
