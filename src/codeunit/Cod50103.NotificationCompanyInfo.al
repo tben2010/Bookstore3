@@ -20,7 +20,7 @@ codeunit 50103 "NotificationCustomerCard"
           TheNotification.Id := '4d3b9fe3-f64a-4a4c-b684-47b356e35d16';
           TheNotification.Scope := NotificationScope::LocalScope;
           TheNotification.Message := 'Kunden Krediltimit Check';
-          TheNotification.SetData('Kunde', '4711');
+          TheNotification.SetData('Kunde', Customer."No.");
           TheNotification.SetData('Lagerort', Customer."Location Code");
           TheNotification.AddAction('Open Customer Card', Codeunit::NotificationCustomerCard, 'ShowCustomerCard');
           TheNotification.Send;
