@@ -43,6 +43,11 @@
           <note from="Developer" annotates="general" priority="2">Info für Übersetzer</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit CustomerSubscriber - NamedType myTextMessageAlsLabel</note>
         </trans-unit>
+        <trans-unit id="Page 2783743311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Book Card - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2783743311 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>General</source>
           <note from="Developer" annotates="general" priority="2"></note>

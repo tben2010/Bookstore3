@@ -1,5 +1,6 @@
 page 50101 "Book Card"
 {
+    Caption = 'Book Card';
     PageType = Card;
     SourceTable = Book;
 
