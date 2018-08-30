@@ -38,6 +38,91 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field No. of Customers - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 569058974 - Field 4170335149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2305965282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>repository_url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field repository_url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 847157443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>labels_url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field labels_url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2557886288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>comments_url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field comments_url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 18278013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>events_url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field events_url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 372531027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>html_url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field html_url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 4110162374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>node_id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field node_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2757394829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 1656136372 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 1405163793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>state</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field state - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 1997149118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>locked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field locked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2389296300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 3464043334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>created_at</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field created_at - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 2126525473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>updated_at</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field updated_at - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 4099264597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>author_association</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field author_association - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 569058974 - Field 1230436276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>body</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ALIssus - Field body - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1441365706 - NamedType 2386254286" maxwidth="20" size-unit="char" translate="no" xml:space="preserve">
           <source>Kunde eingefügt</source>
           <note from="Developer" annotates="general" priority="2">Info für Übersetzer</note>
@@ -177,6 +262,16 @@
           <source>Export Books</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Book List - Action Export Books - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 737878820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>List of ALIssus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ALIssusList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 737878820 - Action 3760230329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh ALIssus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ALIssusList - Action RefreshALIssus - Property Caption</note>
         </trans-unit>
         <trans-unit id="Report 1898289568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book List</source>
