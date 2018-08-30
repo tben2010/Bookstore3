@@ -8,7 +8,7 @@
             "server": "http://BC",
             "serverInstance": "nav",
             "authentication": "Windows",
-            "startupObjectId": 50100,
+            "startupObjectId": 50102,
             "startupObjectType": "Page"
         }
     ]
